@@ -1,7 +1,7 @@
 # newtab
 displays personalised new tab in Google Chrome
 
-###Feature ideas
+### Feature ideas
 
 - Display full-screen photo
 - Display random quote from folder of favourites
